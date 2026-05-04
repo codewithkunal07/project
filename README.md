@@ -1,6 +1,6 @@
 # Library Management System (SQL Project)
 
-## Overview
+## Overview.
 
 This project is a relational database system designed to manage a library. It stores and organizes data related to authors, books, members, and borrowing transactions. The project demonstrates practical use of SQL for real-world data management.
 
