@@ -77,4 +77,5 @@ WHERE BR.ReturnDate IS NULL;
 ## Author
 
 Kunal Rajput
-Aspiring Data Analyst
+Aspiring Data Analyst.
+
